@@ -1,2 +1,17 @@
-## About Alexa Rank Checker
-Find traffic statistics for multiple domains using Alexa's advanced analysis tools.
+### About
+
+ARC  for checking Alexa rank for multiple web sites.
+
+### Screenshot
+
+![Screenshot](_/sc.png)
+
+### Requirements
+
+Application is tested using Perl 5.24.3 version.
+
+### Usage
+
+```
+perl arc.pl
+```
