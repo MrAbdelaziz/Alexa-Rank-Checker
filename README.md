@@ -1,6 +1,6 @@
 #### Project Status
 
-- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=in progress)
+- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=inprogress)
 ### About
 
 ARC  for checking Alexa rank for multiple web sites.
