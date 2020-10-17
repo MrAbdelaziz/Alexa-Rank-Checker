@@ -1,4 +1,4 @@
-#### Project Status
+### Project Status
 
 ![Image of Yaktocat](https://www.pngkey.com/png/detail/137-1379340_wip-work-in-progress-png.png)
 ### About
